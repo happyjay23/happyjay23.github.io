@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
@@ -39,24 +38,6 @@ navs:
   -
     href: /wiki/
     label: 维基
-=======
-# Site settings
-name: JAY23的数据分析笔记
-email: happyjay23@sina.com
-author: JAY23
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
-github: https://github.com/luoyan35714/
-baseurl: ""
-description: 到底行不行!
-meta_description: 肥猫；大龄金融男；爱好瞎研究
-motto: It's our wits that make us men.
-banner: 活到老，学到老
-
-#permalink: /:categories/:year/:month/:day/:title/
-permalink: /:year/:month/:day/:title/
-paginate: 10
->>>>>>> 903aba4ed572a8442aaa6a8aa04b3f593efda0d4
 
   -
     href: /links/
