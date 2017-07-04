@@ -7,8 +7,8 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
+![enter description here][1]
 本人是一个菜鸟数据爱好者，记录下平时学习经历和心得分享
-
 ## 联系
 
 {% for website in site.data.social %}
@@ -25,3 +25,6 @@ permalink: /about/
 {% endfor %}
 </div>
 {% endfor %}
+
+
+  [1]: ./images/1499188954431.jpg
