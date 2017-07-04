@@ -2,11 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url:date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+url:
+date_format: "ordinal"
+title: 神烦DMer
+subtitle: "数据即未来"
+description: "个人学习笔记"
+keywords: Data Mining, happyjay23, Data
 favicon: /favicon.ico
 timezone: Asia/Shanghai
 encoding: "utf-8"
@@ -15,12 +16,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Hai Bo
 organization: zkh360.com
 organization_url: http://www.zkh360.com
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: happyjay23
+location: HeBei, China
+email: happyjay23@sina.com
 
 # ---------------- #
 #    Navigation    #
@@ -77,7 +78,7 @@ collections:
         output: true
         permalink: /wiki/:path/
 
-repository: mzlogin/mzlogin.github.io
+repository: happyjay23/happyjay23.github.io
 
 # ---------------- #
 #      Comments    #
