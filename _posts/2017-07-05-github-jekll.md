@@ -27,15 +27,15 @@ keywords: GitHub, jekll，博客
 
   进入首页可以看见如下图
 
-  ![gj1](images/blog/gj1.png)
+  ![gj1](/images/blog/gj1.png)
 
   依次输入注册信息（用户名，邮箱，密码）点击注册，跳转至如下画面
 
-  ![gj2](images/blog/gj2.png)
+  ![gj2](/images/blog/gj2.png)
 
   默认为FREE选项，然后点击结束注册
 
-  ![gj3](images/blog/gj3.png)
+  ![gj3](/images/blog/gj3.png)
 
   网站会发一封确认邮件到你的注册邮箱 登陆邮箱进行确认
 
@@ -43,23 +43,23 @@ keywords: GitHub, jekll，博客
 
   点击+ 选择新建项目
 
-  ![gj4](images/blog/gj4.png)
+  ![gj4](/images/blog/gj4.png)
 
   然后输入名称，注意Repository name务必和你的ID一致，可避免一些问题
 
-  ![gj5](images/blog/gj5.png)
+  ![gj5](/images/blog/gj5.png)
 
   创建成功之后，进入了项目主页面。点击设置按钮
 
-  ![gj6](images/blog/gj6.png)
+  ![gj6](/images/blog/gj6.png)
 
   滚到下面设置风格模板，有自己域名可以设置，否则为空
 
-  ![gj7](images/blog/gj7.png)
+  ![gj7](/images/blog/gj7.png)
 
   选择模板，并发布
 
-  ![gj8](images/blog/gj8.png)
+  ![gj8](/images/blog/gj8.png)
 >其中可能有些步骤没写，一般默认即可，自己搞定吧
 
 
@@ -68,13 +68,13 @@ keywords: GitHub, jekll，博客
 1. 安装很简单，自己搞定吧，反正我没有遇到困难PS:win10系统已更新
 2. 同步项目到本地
 
-  ![gj9](images/blog/gj9.png)
+  ![gj9](/images/blog/gj9.png)
 
-  ![gj10](images/blog/gj10.png)
-  
+  ![gj10](/images/blog/gj10.png)
+
 3. 也可以从客户端下载项目到本地
 
-  ![gj11](images/blog/gj11.png)
+  ![gj11](/images/blog/gj11.png)
 >客户端操作比较简单，前面提供了网友的介绍，可参考
 
 
@@ -84,20 +84,20 @@ keywords: GitHub, jekll，博客
 
   直接Fork网友的公开项目
 
-  ![gj12](images/blog/gj12.png)
+  ![gj12](/images/blog/gj12.png)
 
   也可以通过github打包下载
 
-  ![gj13](images/blog/gj13.png)
+  ![gj13](/images/blog/gj13.png)
 
   将自己项目下的只留隐藏文件夹git，其他删除，然后将下载文件复制到本地项目文件夹
 
-  ![gj14](images/blog/gj14.png)
+  ![gj14](/images/blog/gj14.png)
 
 2. 利用客户端同步至GitHub
 
   填写后提交同步到github
-  ![gj15](images/blog/gj15.png)
+  ![gj15](/images/blog/gj15.png)
 
 3. 修改模板文件参数
 
