@@ -78,7 +78,7 @@ OpenGrok 提供如下特性：
 
 搜索功能和源码树：
 
-![OpenGrok Search and Browse](/images/posts/tools/opengrok-scr1.png)
+![OpenGrok Search and Browse](/images/blog/gj9.png)
 
 代码导航和版本历史记录：
 
