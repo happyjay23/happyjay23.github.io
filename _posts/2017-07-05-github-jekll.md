@@ -27,7 +27,11 @@ keywords: GitHub, jekll，博客
 
   进入首页可以看见如下图
 
+<<<<<<< HEAD
   ![gj1](images/blog/gj1.png)
+=======
+  ![gj1](images/blog/gj1.png)
+>>>>>>> 5375bae2852defd8f48c60d0ee52c54e4eb99d9a
 
   依次输入注册信息（用户名，邮箱，密码）点击注册，跳转至如下画面
 
