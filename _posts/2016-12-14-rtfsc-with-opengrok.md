@@ -82,7 +82,7 @@ OpenGrok 提供如下特性：
 
 代码导航和版本历史记录：
 
-![OpenGrok Navitation and History](/images/posts/tools/opengrok-scr2.png)
+![OpenGrok Navitation and History](/images/blog/gj12.png)
 
 ### 安装和配置
 
