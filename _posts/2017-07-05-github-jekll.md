@@ -114,10 +114,8 @@ keywords: GitHub, jekll，博客
   . _posts：这里面装的就是你的博文啦，记住，要用markdown语法写，要不上传会失败的
 
 
-完成了博客搭建，省下的就是自己编写markdown文件，放到_posts文件夹
-然后同步到gibhut上就行了，简单吧！
-
-至于站点样式、设计什么的，以后再慢慢研究!
+>完成了博客搭建，省下的就是自己编写markdown文件，放到_posts文件夹,然后同步到gibhut上就行了，简单吧！
+>至于站点样式、设计什么的，以后再慢慢研究!
 # 致谢多位大牛的文章以及[mazhuang](http://mazhuang.org/)的模板 #
 
 
