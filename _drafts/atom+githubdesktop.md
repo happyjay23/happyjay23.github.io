@@ -1,9 +1,9 @@
 ---
 layout: post
-title: 搭建篇：菜鸟利用GitHubDesktop + jekll 30分钟搭建博客
+title: 更新篇：Atom + GitHubdesktop客户端 傻瓜式更新博客
 categories: Blog
-description: 傻瓜式GitHub博客搭建
-keywords: GitHub, jekll，博客
+description: 傻瓜式更新博客
+keywords: GitHub, Atom，博客
 ---
 
 # 更新篇：Atom + GitHubdesktop客户端 傻瓜式更新博客 #
