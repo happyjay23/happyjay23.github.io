@@ -70,7 +70,9 @@ keywords: Python, Requests，Web
 
 ### 最简单方法:使用浏览器F12开发者模式查看
 1、打开浏览器，进入登录界面后，按F12，选择Network进行监控，然后输入ID和密码，点击登录按钮，监控收发包。
+
 2、可查信息如下：
+
 ![123](/images/blog/2017-07-06_1_1.png)
 
 ![123](/images/blog/2017-07-06_1_2.png)
@@ -80,6 +82,7 @@ keywords: Python, Requests，Web
 ![123](/images/blog/2017-07-06_1_4.png)
 ### 普通网页登录
 需登记网站涉及cookies，建议多使用session对象，避免一系统麻烦
+
 例如：
 > #1、导入包
 ```python
