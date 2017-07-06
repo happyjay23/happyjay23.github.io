@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Hai Bo
 organization: jay23.com
-organization_url: http://www.zkh360.com
+organization_url: https://happyjay23.github.io/
 github_username: happyjay23
 location: HeBei, China
 email: happyjay23@sina.com
@@ -95,11 +95,11 @@ netease_gentie:
     productKey: 560ed243b708465d82d5a0a5f3b83da1
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: mzlogin
+    owner: happyjay23
     repo: blog-comments
     oauth:
-        client_id: d2e1cbbd298958076462
-        client_secret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+        client_id: b415fb36d2dc60220944
+        client_secret: 7c019d67d1c49e419d1e68851762fe5c10ef07ae
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
 
