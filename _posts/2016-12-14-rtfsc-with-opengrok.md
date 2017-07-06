@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 搭建大型源码阅读环境——使用 OpenGrok 
+title: 搭建大型源码阅读环境——使用 OpenGrok
 categories: Tools
 description: RTFSC 是程序员打怪升级路上避不开的功课，那营造一个舒适的环境来提升上课的体验就很有必要了。
 keywords: OpenGrok, RTFSC
@@ -13,6 +13,7 @@ RTFSC 是程序员打怪升级路上避不开的功课，那营造一个舒适�
 ## 工具的选择
 
 阅读源码的工具我尝试过以下几类：
+
 
 1. IDE
 
@@ -67,7 +68,7 @@ OpenGrok 提供如下特性：
 4. 可以开发插件支持新的语言和版本控制系统
 
     已经支持的语言： [Supported Languages and Formats](https://github.com/OpenGrok/OpenGrok/wiki/Supported-Languages-and-Formats)
-    
+
     已经支持的版本控制系统：[Supported Revision Control Systems](https://github.com/OpenGrok/OpenGrok/wiki/Supported-Revision-Control-Systems)
 
 ## 配置 OpenGrok
