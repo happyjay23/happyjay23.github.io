@@ -8,7 +8,7 @@ menu: 链接
 permalink: /links/
 ---
 
-> God made relatives. Thank God we can choose our friends.
+> ## 感谢可爱的网友，欢迎志同道合的朋友
 
 {% for link in site.data.links %}
 * [{{ link.name }}]({{ link.url }})

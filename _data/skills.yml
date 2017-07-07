@@ -1,19 +1,20 @@
-- name: Software Engineer Keywords
+- name: 常用工具包
   keywords:
-      - Java
-      - C++
+      - Pandas
+      - Numpy
+      - Matplotlib
+      - Sklean
+
+- name: 常用工具
+  keywords:
       - Python
-      - Design Patterns
+      - Anaconda
+      - Pycharm
 
-- name: Mobile Developer Keywords
+- name: 工作领域
   keywords:
-      - Android
-      - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - Data Ming
+      - Data Analysis
+      - NLP
+      - ML
+      - IT FIN

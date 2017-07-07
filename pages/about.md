@@ -7,15 +7,16 @@ comments: true
 menu: 关于
 permalink: /about/
 ---
-![enter description here][1]
-本人是一个菜鸟数据爱好者，记录下平时学习经历和心得分享
+![aboat](/pages/aboat.png)
+
+## 本博客分享菜鸟的数据挖掘学习笔记 ##
 ## 联系
 
 {% for website in site.data.social %}
 * {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
 {% endfor %}
 
-## Skill Keywords
+## 应用技术
 
 {% for category in site.data.skills %}
 ### {{ category.name }}
