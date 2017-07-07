@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 网络爬虫第一篇：网络爬虫基础和Requests库
-categories: Blog
+categories: 网络爬虫
 description: 网络爬虫学习
 keywords: Python, Requests，Web
 ---
