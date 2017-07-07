@@ -96,7 +96,7 @@ netease_gentie:
 # https://imsun.net/posts/gitment-introduction/
 gitment:
     owner: happyjay23
-    repo: blog-comments
+    repo: happyjay23.github.io
     oauth:
         client_id: 4d061788eeaabef903b8
         client_secret: 8b323f24d7f51b0fa30a5396b43edfc369352619
