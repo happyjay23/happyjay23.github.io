@@ -1,13 +1,13 @@
 ---
 layout: page
-title: 关于
+title: About
 description: 个人的思考
 keywords: Data, 分析
 comments: true
 menu: 关于
 permalink: /about/
 ---
-![aboat](/pages/aboat.png)
+![about](/pages/about.png)
 
 ## 本博客分享菜鸟的数据挖掘学习笔记 ##
 ## 联系
