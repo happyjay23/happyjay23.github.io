@@ -66,7 +66,7 @@ print(textlist)
 >
 > 分享：[lxml库用法详解](http://www.airyyun.com/368.html)
 >
-> 分享：[XML语法规则详解](http://www.airyyun.com/368.html)
+> 分享：[xpath语法规则详解](http://www.w3school.com.cn/xpath/)
 
 ## 四、lxml库的使用 ##
 
