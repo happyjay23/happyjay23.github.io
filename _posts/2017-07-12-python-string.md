@@ -3,10 +3,11 @@ layout: post
 title: 特别篇：关于python解决字符串去除全部标点符号的方法
 categories: python
 description: python
-keywords: Python, 字符串，string
+keywords: Python, 字符串，string，特殊符号
 ---
 
 # python解决字符串去除全部标点符号的方法 #
+
 
 > 遇到去除字符串中所有标点符号的问题，想到的解决方法:
 
