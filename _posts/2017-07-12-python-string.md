@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 特别篇：关于python解决字符串去除全部标点符号的方法
-categories: python
-description: python
+categories: Python
+description: python字符串处理
 keywords: Python, 字符串，string，特殊符号
 ---
 

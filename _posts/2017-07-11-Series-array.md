@@ -2,7 +2,7 @@
 layout: post
 title: 数据分析特别篇：关于Pandas.Series和numpy.array的区别和联系
 categories: 数据分析
-description: 数据分析学习
+description: 数据分析，数据挖掘
 keywords: Python, Pandas，numpy，数组
 ---
 # 关于Pandas.Series和numpy.array的区别和联系 #
