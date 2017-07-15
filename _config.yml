@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: happyjay23.github.io
+url: http://dmcoders.com
 date_format: "ordinal"
 title: 神烦DMer
 subtitle: "数据即未来"
@@ -18,7 +18,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 author: Hai Bo
 organization: dmcoders.com
-organization_url: https://happyjay23.github.io/
+organization_url: http://dmcoders.com/
 github_username: happyjay23
 location: HeBei, China
 email: happyjay23@sina.com
