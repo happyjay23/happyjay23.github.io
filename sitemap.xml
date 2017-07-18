@@ -8,217 +8,290 @@
 
 <url>
   <loc>http://dmcoders.com/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>1.00</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/categories/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/links/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/about/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dmcoders.com/2017/07/18/python-class-yield/</loc>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dmcoders.com/2017/07/17/scrapybase/</loc>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dmcoders.com/2017/07/16/python-lamba/</loc>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dmcoders.com/2017/07/16/python-Scrapy/</loc>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/2017/07/14/sklearn-test/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/2017/07/13/sklearn/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/2017/07/12/pythonIterator/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/2017/07/12/python-string/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://dmcoders.com/2017/07/11/Series-array/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://dmcoders.com/2017/07/10/spidertest/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://dmcoders.com/2017/07/10/XML/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://dmcoders.com/2017/07/07/pandas_newlearn/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/page2/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://dmcoders.com/page3/</loc>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.80</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/2017/07/06/atom-githubdesktop/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/2017/07/05/github-jekll/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/2014/08/26/takephotos/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/2016/12/14/rtfsc-with-opengrok/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://dmcoders.com/2017/07/11/Series-array/</loc>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://dmcoders.com/2017/07/07/pandas_newlearn/</loc>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://dmcoders.com/2017/07/10/spidertest/</loc>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://dmcoders.com/2017/07/10/XML/</loc>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/2017/07/07/beautifulsoup/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/2017/07/06/webcrawber/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/android-studio/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/axure/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/badminton/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/chinese-copywriting-guidelines/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/eclipse/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/emacs/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/git/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/good-soft/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/ida-pro/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/linux/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/mac/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/markdown/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/mpv/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/ollydbg/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/onenote/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/php/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/python/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/qt-creator/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/source-insight/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/swimming/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/vim/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/visual-studio-code/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 <url>
   <loc>http://dmcoders.com/wiki/visual-studio/</loc>
-  <lastmod>2017-07-14T14:30:17+00:00</lastmod>
-  <changefreq>daily</changefreq>
+  <lastmod>2017-07-18T18:00:59+00:00</lastmod>
+  <changefreq>always</changefreq>
+  <priority>0.64</priority>
 </url>
 </urlset>
