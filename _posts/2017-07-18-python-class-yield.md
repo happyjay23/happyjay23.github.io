@@ -12,8 +12,8 @@ keywords: Python, class，yield，继承,封装,多态
 
 - 类class，主要有三大特性：封装、继承、多态
 - 类包括属性和方法，其中分为公有和私有
-- 定义公有属性和方法的格式：`self.属性`和`self.方法`
-- 定义私有属性和方法的格式：`self.__属性`和`self.__方法`
+- 定义公有属性和方法的格式：`self.属性`和`def 方法`
+- 定义私有属性和方法的格式：`self.__属性`和`def __方法`
 - 实例可直接调用公共属性或公共函数
 - 实例不可直接调用私有属性或私有方法
 - 在类的内部调用私有属性和方法的格式：`self.__属性`
@@ -27,14 +27,14 @@ keywords: Python, class，yield，继承,封装,多态
 class Person:
     #定义构造方法
     def __init__(self,name,age):
-        #定义私有属性
+        #定义实例私有属性
         self.__name = name
-        #定义公共属性
+        #定义实例公共属性
         self.age  = age
     #定义公共方法，并内部调用私用方法   
     def say(self):
         self.__say()
-    #定义私有方法，并内部调用私有属性
+    #定义私有方法，并内部调用实例私有属性
     def __say(self):
         print('姓名：{0},年龄：{1}'.format(self.__name,self.age))
 ```
@@ -118,7 +118,7 @@ class Man(Person):
         super().__init__(name,age) #方法一使用super可简化
         #Person.__init__(self,name,age) #方法二使用此法
 
-        #定义子类独立的属性
+        #定义子类实例独立的属性
         self.edu = edu
 
     #定义子类的方法
@@ -190,7 +190,7 @@ def demo(n):
         item = {'old':0,'new':0}
         item['old'] = i
         item['new'] = i+2
-        yield item # 每执行一次到此就会暂停下，并输出函数值
+        yield item # 每执行一次到此就会暂停下，并输出函数值，然后继续往下执行
     print('完成') #当全部执行完毕后，才会执行后面的内容
 ```
 
