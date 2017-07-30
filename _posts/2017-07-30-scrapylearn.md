@@ -57,7 +57,7 @@ demo/spiders:配置项目的爬虫代码部分，属于核心设置
 
 ```python
   from scrapy.cmdline import execute
-  # 第三项是爬虫名字，此命令可以启动爬虫！！
+  #第三项是爬虫名字，此命令可以启动爬虫！！
   execute(['scrapy', 'crawl', '你的爬虫名'])
 ```
 
