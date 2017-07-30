@@ -11,7 +11,7 @@ keywords: Python, Scarpy，框架，爬虫
 ## 采用pycharm + Anaconda建立环境
 之前写过一片关于Anaconda安装scrapy的文章，但是写爬虫最好还是用个IDE吧  
 pycharm不二选择，不过和谐版本需要自己想办法搞定啦~~这里不多说。。。  
-安装好pycharm后，记得选择python版本选择为Anaconda的！  
+安装好pycharm后，记得选择python版本为Anaconda的！  
 怎么设置自行百度，这里算是有个懒癌的办法就是把默认版本设置Anaconda的，这样以后新建项目均采用默认的python版本了
 
 ## scrapy处理流程的简易说明：
@@ -54,12 +54,13 @@ demo/settings.py:配置项目的设置部分
 demo/spiders:配置项目的爬虫代码部分，属于核心设置  
 
 3. 为方便调试scrapy，建议独立写个py文件，运行调试，代码如下:  
-  ```python
-  from scrapy.cmdline import execute
 
+```python
+  from scrapy.cmdline import execute
   # 第三项是爬虫名字，此命令可以启动爬虫！！
   execute(['scrapy', 'crawl', '你的爬虫名'])
-  ```
+```
+
 
 ## 二、初步分析目标网站   
 1. 进入cmd工作台，使用scrapy固定命令：  
