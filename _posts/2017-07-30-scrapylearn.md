@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scarpy第二篇：关于Python3的Scarpy的流程学习1
+title: Scarpy第二篇：关于Python3的Scarpy的流程学习第一篇
 categories: 网络爬虫
 description: 网络爬虫学习
 keywords: Python, Scarpy，框架，爬虫
