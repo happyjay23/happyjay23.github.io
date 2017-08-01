@@ -117,7 +117,7 @@ ROBOTSTXT_OBEY：自动生成的内容,是否遵守robots.txt规则，这里选�
 ITEM_PIPELINES：定义item的pipeline；  
 COOKIES_ENABLED:Cookie使能，这里禁止Cookie;  
 DOWNLOAD_DELAY：下载延时，这里使用250ms延时。  
-#以下是个人自定义设置，可在pipeline.py中调用
+#以下是imagespipeline的设置，可在pipeline.py中调用
 IMAGES_STORE:自定义的图片存储路径；  
 
 很晚了，今天先到这里，明天继续爬虫和管道部分的总结，这才是核心内容，而且有些地方不好理解。
